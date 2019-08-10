@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/peoples-api/static/css/main.93c1d566.chunk.css",
+    "main.js": "/peoples-api/static/js/main.9bfa4234.chunk.js",
+    "main.js.map": "/peoples-api/static/js/main.9bfa4234.chunk.js.map",
+    "runtime~main.js": "/peoples-api/static/js/runtime~main.8782336c.js",
+    "runtime~main.js.map": "/peoples-api/static/js/runtime~main.8782336c.js.map",
+    "static/js/2.45c92687.chunk.js": "/peoples-api/static/js/2.45c92687.chunk.js",
+    "static/js/2.45c92687.chunk.js.map": "/peoples-api/static/js/2.45c92687.chunk.js.map",
+    "index.html": "/peoples-api/index.html",
+    "precache-manifest.c2c890153029f161ce9bf71cabbdfb58.js": "/peoples-api/precache-manifest.c2c890153029f161ce9bf71cabbdfb58.js",
+    "service-worker.js": "/peoples-api/service-worker.js",
+    "static/css/main.93c1d566.chunk.css.map": "/peoples-api/static/css/main.93c1d566.chunk.css.map"
+  }
+}
